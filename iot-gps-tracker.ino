@@ -1,9 +1,9 @@
 #include "UbidotsMicroESP8266.h"
 #include <SoftwareSerial.h>
 #include <TinyGPS++.h>
-#define TOKEN  "BBFF-NZpbtqlig1f6DjMoC5okov55BKAnXd"  // Put here your Ubidots TOKEN
-#define WIFISSID "kay" // Put here your Wi-Fi SSID
-#define PASSWORD "kore@123" // Put here your Wi-Fi password
+#define TOKEN  "XXXXXXXXXXXXXXXXXX"  // Put here your Ubidots TOKEN
+#define WIFISSID "XXXX" // Put here your Wi-Fi SSID
+#define PASSWORD "XXXXXX" // Put here your Wi-Fi password
 
 
 Ubidotsclient(TOKEN);
